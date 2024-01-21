@@ -7,7 +7,7 @@ Rozložení stránek:
 -Články: Stránka s článkama
 -Kontakt: Jednoduchá kontakt stránka s odkazy na moje platformy a na můj mail.
 
-To do: Custom cursor, form
+CO jsem mohl vylepšit: Custom cursor jako clean reaktivní prvek a kontaktní formulář
 
 ![reactfolio-navrh](https://github.com/Pastyxd/Pastyho-reactfolio/assets/148329648/33662996-c4d2-46d4-a637-b3f37df3012a)
 ![reactfolio_navrh2 (1)](https://github.com/Pastyxd/Pastyho-reactfolio/assets/148329648/aa046d57-fc3d-42a8-a022-9b8600360433)
